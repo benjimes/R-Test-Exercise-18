@@ -1,8 +1,8 @@
 #test
 
 x <- 1
-x2 <- x + 1
-print(x2)
+y <- x + 1
+print(y)
 
 #End Test
 
